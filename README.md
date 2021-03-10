@@ -1,4 +1,4 @@
-# Getting Started with El Tiempo Kids App
+# El Tiempo Kids App
 
 In the project directory, you can run:
 
